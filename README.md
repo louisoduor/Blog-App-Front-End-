@@ -39,7 +39,7 @@ bash
 Copy code
 cd ../backend python app.py
 
-The backend will be accessible at http://localhost:5000.
+The backend will be accessible at http://localhost:5173.
 Use the blog app to create, read, update, and delete blog posts. Authenticate using JWT.
 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
